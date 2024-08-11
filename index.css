@@ -1,0 +1,24 @@
+/*
+    color-primario: #99ff00;
+    color-secundario: #46453a;
+    color-terciario: #8123de;
+    color-cuarto: #11ff88;
+*/
+
+.claselista {
+    background-color: #5b9cd2;
+    color:#453e5a ;
+    font-size:xx-large;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    
+}
+
+.claseformulario {
+    background-color: #6c7376;
+    color:rgb(80, 7, 96);
+    font-size:large;
+    font-family:helvetica, sans-serif ;
+
+}
+
+.claseitem{ color: rgb(25, 105, 105);}
